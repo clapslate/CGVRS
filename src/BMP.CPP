@@ -1,4 +1,4 @@
-// Dhapofied from kuldhir - http://technobuz.com/2009/04/screenshot-c-graphics-program-turbo-c/
+// Copyright kuldhir - http://technobuz.com/2009/04/screenshot-c-graphics-program-turbo-c/
 
 
 

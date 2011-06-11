@@ -1,3 +1,13 @@
+Author: Mohit Gvalani
+Email: mohitindubai@gmail.com
+Copyright 2009, Mohit Gvalani.
+
+License Agreement:
+CGVRS is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Description:
 This is a collection of Computer Graphics programs that are part of the Mumbai University syllabus for CGVRS(semester 5-IT).
 These programs were developed using Turbo C++ 3.0
 To use these programs, place all the files from 'src', 'include' and 'obj' folders, directly in the 'bin' folder of TC.
