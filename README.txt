@@ -1,4 +1,4 @@
-This is a collection of Computer Graphics programs that are part of the Mumbai University syllabus for CGVRS(semester 5).
+This is a collection of Computer Graphics programs that are part of the Mumbai University syllabus for CGVRS(semester 5-IT).
 These programs were developed using Turbo C++ 3.0
 To use these programs, place all the files from 'src', 'include' and 'obj' folders, directly in the 'bin' folder of TC.
 
